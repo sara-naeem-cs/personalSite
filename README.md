@@ -16,4 +16,4 @@ A few quick credits:
 - Clock-icon: (https://img.icons8.com/pastel-glyph/2x/clock--v2.png)
 - File icon: http://www.clker.com/cliparts/V/L/U/M/9/N/clipboard.svg.med.png 
 - Code for popups was altered from the code found in this video: https://www.youtube.com/watch?v=MBaw_6cPmAw&ab_channel=WebDevSimplified 
--  Design was inpired from Mac OS
+-  Design was inpired by Mac OS
