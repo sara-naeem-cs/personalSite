@@ -1,8 +1,9 @@
-Hi welcome to my interactive portfolio. The idea was to mimic a desktop layout that allows the user to "go through the computer" and learn more about me. Hope you like it and I'm always open to feedback! 
+Hi welcome to my interactive portfolio. The idea was to mimic a desktop layout that allows the user learn more about me while "browsing the desktop". Hope you like it and I'm always open to feedback! 
 
-Live site can be found here: 
+Live site can be found here: https://sara-naeem-cs.github.io/personalSite/
 
 
+*Disclaimer: site is now outdated! 
 
 
 A few quick credits:
